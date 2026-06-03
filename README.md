@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**carloshenrique96671-png/carloshenrique96671-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Carlos Henrique Ribeiro da Costa
+### Estudante de Ciências de Dados na Escola do Futuro de Goiás
+#### ⚒️ ToolBox Técnico
+- **Dados:** Python (Pandas, Seaborn), SQL (MySQL), NoSQL (ElasticSearch)
+- **Visualização:** Matplotlib, Kibana, Power BI, Excel
+- **Ferramentas:** Git, Github, VS Code
+- **Machine learning:** Scikit-Learn
+#### 📒 Projetos em Destaque
+- [TechStore analysis](carloshenrique96671-png): Consultoria para empresas TechStore
+#### 🎓 Conhecimentos Futuros
+- **Visualização de Dados:** Looker, Tableu
+- **Cloud:** AWS
+- **Linguagens:** R
